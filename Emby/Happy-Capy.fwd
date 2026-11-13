@@ -1,6 +1,7 @@
 {
   "title": "Happy Capy",
   "description": "给你的 CapyPlayer 加上影视源，只要跑一个容器。Docker：https://hub.docker.com/r/cs920/happy-capy",
+   "icon": "https://github.com/huangxd-/ForwardWidgets/raw/main/icon.png",
   "widgets": [
     {
       "id": "capy.backend.51chigua",
