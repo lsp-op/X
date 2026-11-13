@@ -3,22 +3,22 @@
   "description": "给你的 CapyPlayer 加上影视源，只要跑一个容器。Docker：https://hub.docker.com/r/cs920/happy-capy",
   "widgets": [
     {
-      "id": "{hc_id}",
-      "title": "{hc_title}",
-      "description": "{hc_description}",
-      "requiredVersion": "{hc_requiredVersion}",
-      "version": "{hc_version}",
-      "author": "{hc_author}",
-      "url": "{hc_url}"
+      "id": "capy.backend.51chigua",
+      "title": "51吃瓜",
+      "description": "通过 Happy Capy Runtime 提供 51吃瓜浏览、分类、搜索、详情与 HLS 直连播放",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.12",
+      "author": CAPY_BACKEND_URL + "/widgets/69ck-icon.png",
+      "url": "https://x.opx.qzz.io/widgets/51chigua.js?token=lspop2077"
     },
     {
-      "id": "{hc_id}",
-      "title": "{hc_title}",
-      "description": "{hc_description}",
-      "requiredVersion": "{hc_requiredVersion}",
-      "version": "{hc_version}",
-      "author": "{hc_author}",
-      "url": "{hc_url}"
+      "id": "69ck",
+      "title": "黄色仓库",
+      "description": "黄色仓库免翻版，支持动态寻址与视频在线直连点播与播放",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.1",
+      "author": "Happy Capy",
+      "url": CAPY_BACKEND_URL + "/widgets/69ck-icon.png"
     },
   ]
 }
