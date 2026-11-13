@@ -1,0 +1,24 @@
+{
+  "title": "Happy Capy",
+  "description": "给你的 CapyPlayer 加上影视源，只要跑一个容器。Docker：https://hub.docker.com/r/cs920/happy-capy",
+  "widgets": [
+    {
+      "id": "{hc_id}",
+      "title": "{hc_title}",
+      "description": "{hc_description}",
+      "requiredVersion": "{hc_requiredVersion}",
+      "version": "{hc_version}",
+      "author": "{hc_author}",
+      "url": "{hc_url}"
+    },
+    {
+      "id": "{hc_id}",
+      "title": "{hc_title}",
+      "description": "{hc_description}",
+      "requiredVersion": "{hc_requiredVersion}",
+      "version": "{hc_version}",
+      "author": "{hc_author}",
+      "url": "{hc_url}"
+    },
+  ]
+}
